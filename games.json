@@ -1,0 +1,16 @@
+[
+  {
+    "title":"Super Mario Land",
+    "console":"Game Boy",
+    "rom":"roms/gb/Super Mario Land.gb",
+    "image":"roms/gb/Super Mario Land.png"
+  },
+
+  {
+    "title":"Mario Kart DS",
+    "console":"Nintendo DS",
+    "rom":"roms/nds/Mario Kart DS.nds",
+    "image":"roms/nds/Mario Kart DS.png"
+ 
+  }
+]
