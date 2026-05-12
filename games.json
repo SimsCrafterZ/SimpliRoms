@@ -7,10 +7,10 @@
   },
 
   {
-    "title":"Mario Kart DS",
-    "console":"Nintendo DS",
-    "rom":"roms/nds/Mario Kart DS.nds",
-    "image":"roms/nds/Mario Kart DS.png"
+    "title":"Super Mario World",
+    "console":"Super Nintendo",
+    "rom":"roms/nds/Super Mario World.sfc",
+    "image":"roms/nds/Super Mario World.png"
  
   }
 ]
